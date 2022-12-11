@@ -35,4 +35,4 @@ Let's have a look at the most used functions under this category:
 - [Determine leap year](https://github.com/SQL-Project-Solutions/Scalar-valued-functions/blob/main/is_Leap_Year.sql)
 
 Useful links:
-- [how to get different SQL Server date formats](https://www.mssqltips.com/sqlservertip/1145/date-and-time-conversions-using-sql-server/)
+- [how to get different SQL Server date formats](https://www.mssqltips.com/sqlservertip/1145/date-and-time-conversions-using-sql-server/) 
