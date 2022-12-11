@@ -1,5 +1,4 @@
 -- Returns flag for leap/not leap year
-
 CREATE FUNCTION [dbo].[IsLeapYear] (@date DateTime)
 RETURNS INT
 
