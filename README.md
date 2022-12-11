@@ -27,7 +27,7 @@ One of the most used scalar functions throughout my analytical work were probabl
 It is easier to remember name of the function rather than whole function and on many occastions it also consumes less time.
 
 Let's have a look at the most used functions under this category:
-- [Get first day of the month](https://github.com/SQL-Project-Solutions/Scalar-valued-functions/blob/main/First_od_Month.sql)
+- [Get first day of the month](https://github.com/SQL-Project-Solutions/Scalar-valued-functions/blob/main/First_of_Month.sql)
 - [Get last day of the month](https://github.com/SQL-Project-Solutions/Scalar-valued-functions/blob/main/Last_of_Month.sql)
 - [Get number of days in month](https://github.com/SQL-Project-Solutions/Scalar-valued-functions/blob/main/Days_in_Month.sql)
 - [Get first day of the week](https://github.com/SQL-Project-Solutions/Scalar-valued-functions/blob/main/First_of_Week.sql)
