@@ -1,4 +1,4 @@
-# Scalar-valued Functions  <img src="" width="65"/>  <br><br/> 
+# Scalar-valued Functions  <img src="https://github.com/SQL-Project-Solutions/SQL-Server---scalar-valued-functions/blob/main/sql_server.png" width="65"/>  <br><br/> 
 
 
 SQL Server scalar-valued function takes one or more parameters and returns a single value.
